@@ -8,12 +8,14 @@ app.py
 
 requirement.txt
 
-**feaure engineering file:** 
+**Feaure engineering file:** 
 
 feature_engineering.py
+
 **Machine learning training file:**
 
 train_wrds.py
+
 **Parameters of the trained model：**
 
 feature_cols.joblib  
